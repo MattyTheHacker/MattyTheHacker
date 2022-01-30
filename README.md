@@ -2,6 +2,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattyTheHacker&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MattyTheHacker)]
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattyTheHacker&theme=midnight-purple&layout=compact&langs_count=10"/>
