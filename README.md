@@ -4,6 +4,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MattyTheHacker&theme=onedark&no-bg=false&count_private=true)](https://github.com/MattyTheHacker/MattyTheHacker)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MattyTheHacker)](https://git.io/streak-stats)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattyTheHacker&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MattyTheHacker&theme=midnight-purple)
