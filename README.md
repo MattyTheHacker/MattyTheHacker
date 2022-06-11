@@ -2,9 +2,7 @@
 
 [![Image of https://github.com/MattyTheHacker/matty-views-counter](https://github.com/MattyTheHacker/matty-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/MattyTheHacker/matty-views-counter)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MattyTheHacker&theme=onedark&no-bg=false&count_private=true)](https://github.com/MattyTheHacker/MattyTheHacker)
-
-[![Trophies](https://github-profile-trophy.vercel.app?username=MattyTheHacker)](https://github.com/MattyTheHacker)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=MattyTheHacker&theme=onedark&no-bg=false&count_private=true)](https://github.com/MattyTheHacker/MattyTheHacker)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MattyTheHacker&theme=midnight-purple)](https://git.io/streak-stats)
 
